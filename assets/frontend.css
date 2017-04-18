@@ -1,0 +1,91 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+a {
+  color: #dd5151;
+}
+
+a.border-judul {
+  color: #FFF;
+  padding-left: 5px;
+}
+
+h5.border-judul {
+  background-color: #f44336;
+  padding-bottom: 3px;
+}
+
+.artikel {
+  display: block;
+  margin-bottom: 20px;
+}
+
+#gambar-artikel {
+  box-shadow: 0px 0px 10px;
+}
+
+#sosmed {
+  transition: ease 0.5s;
+}
+#sosmed:hover {
+  color: #c62828;
+}
+
+#logoHeart {
+  color: #fcc2d3;
+}
+
+/* ------------- custom button  -------------- */
+#btnNav {
+  color: #dd5151;
+}
+
+#btn {
+  background-color: #dd5151;
+}
+
+/* ------------ custom field -----------*/
+.input-field label {
+  color: #dd5151;
+}
+
+.input-field input[type=text]:focus + label {
+  color: #dd5151;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #dd5151;
+  box-shadow: 0 1px 0 0 #dd5151;
+  color: #dd5151;
+}
+
+.input-field .prefix.active {
+  color: #dd5151;
+}
+
+.input-field input[type=password]:focus + label {
+  color: #dd5151;
+}
+
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid #dd5151;
+  box-shadow: 0 1px 0 0 #dd5151;
+  color: #dd5151;
+}
+
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #dd5151;
+  box-shadow: 0 1px 0 0 #dd5151;
+  color: #dd5151;
+}
+
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #dd5151;
+}
