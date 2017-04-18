@@ -2,8 +2,6 @@
 
 Portal Berita berbasis CMS build with PHP Native (pre-procedural) and MaterializeCSS for front-end.
 <br>
-Ini adalah hasil Tugas Akhir saya saat mengambil jenjang pendidikan D3.
-
 Cara menggunakan:
 1. git clone/download repo ini.
 2. Gunakan XAMPP, kemudian jalankan Apache dan MySQL.
