@@ -1,6 +1,6 @@
 # gebrak
 
-Portal Berita berbasis CMS build with PHP Native (pre-procedural) and MaterializeCSS for front-end.
+Portal Berita berbasis CMS build with PHP Native procedural style and MaterializeCSS for front-end.
 
 
 Cara menggunakan:
